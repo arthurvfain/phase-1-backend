@@ -1,7 +1,5 @@
-	
 {
-	
-  "data":[
+  "parks":[
   
   {
   
@@ -21485,5 +21483,17 @@
   
   }
   
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "parkId": "6DA17C86-088E-4B4D-B862-7C1BD5CF236B",
+      "createdAt": 1622521024
+    },
+    {
+      "id": 2,
+      "parkId": "41BAB8ED-C95F-447D-9DA1-FCC4E4D808B2",
+      "createdAt": 1622521025
+    }
   ]
-  }
+}
