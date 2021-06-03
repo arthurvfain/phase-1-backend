@@ -7,6 +7,8 @@
   
   ,"url":"https://www.nps.gov/abli/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Abraham Lincoln Birthplace National Historical Park"			
   
   ,"parkCode":"abli"
@@ -53,6 +55,8 @@
   
   ,"url":"https://www.nps.gov/acad/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Acadia National Park"			
   
   ,"parkCode":"acad"
@@ -99,6 +103,8 @@
   
   ,"url":"https://www.nps.gov/adam/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Adams National Historical Park"			
   
   ,"parkCode":"adam"
@@ -145,6 +151,8 @@
   
   ,"url":"https://www.nps.gov/afam/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"African American Civil War Memorial"			
   
   ,"parkCode":"afam"
@@ -191,6 +199,8 @@
   
   ,"url":"https://www.nps.gov/afbg/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"African Burial Ground National Monument"			
   
   ,"parkCode":"afbg"
@@ -237,6 +247,8 @@
   
   ,"url":"https://www.nps.gov/agfo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Agate Fossil Beds National Monument"			
   
   ,"parkCode":"agfo"
@@ -283,6 +295,8 @@
   
   ,"url":"https://www.nps.gov/alka/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ala Kahakai National Historic Trail"			
   
   ,"parkCode":"alka"
@@ -329,6 +343,8 @@
   
   ,"url":"https://www.nps.gov/alag/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Alagnak Wild River"			
   
   ,"parkCode":"alag"
@@ -375,6 +391,8 @@
   
   ,"url":"https://www.nps.gov/anch/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Alaska Public Lands"			
   
   ,"parkCode":"anch"
@@ -421,6 +439,8 @@
   
   ,"url":"https://www.nps.gov/alca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Alcatraz Island"			
   
   ,"parkCode":"alca"
@@ -467,6 +487,8 @@
   
   ,"url":"https://www.nps.gov/aleu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Aleutian Islands World War II National Historic Area"			
   
   ,"parkCode":"aleu"
@@ -513,6 +535,8 @@
   
   ,"url":"https://www.nps.gov/alfl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Alibates Flint Quarries National Monument"			
   
   ,"parkCode":"alfl"
@@ -559,6 +583,8 @@
   
   ,"url":"https://www.nps.gov/alpo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Allegheny Portage Railroad National Historic Site"			
   
   ,"parkCode":"alpo"
@@ -605,6 +631,8 @@
   
   ,"url":"https://www.nps.gov/amme/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"American Memorial Park"			
   
   ,"parkCode":"amme"
@@ -651,6 +679,8 @@
   
   ,"url":"https://www.nps.gov/amis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Amistad National Recreation Area"			
   
   ,"parkCode":"amis"
@@ -697,6 +727,8 @@
   
   ,"url":"https://www.nps.gov/anac/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Anacostia Park"			
   
   ,"parkCode":"anac"
@@ -743,6 +775,8 @@
   
   ,"url":"https://www.nps.gov/ande/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Andersonville National Historic Site"			
   
   ,"parkCode":"ande"
@@ -789,6 +823,8 @@
   
   ,"url":"https://www.nps.gov/anjo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Andrew Johnson National Historic Site"			
   
   ,"parkCode":"anjo"
@@ -835,6 +871,8 @@
   
   ,"url":"https://www.nps.gov/ania/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Aniakchak National Monument & Preserve"			
   
   ,"parkCode":"ania"
@@ -881,6 +919,8 @@
   
   ,"url":"https://www.nps.gov/anti/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Antietam National Battlefield"			
   
   ,"parkCode":"anti"
@@ -927,6 +967,8 @@
   
   ,"url":"https://www.nps.gov/apis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Apostle Islands National Lakeshore"			
   
   ,"parkCode":"apis"
@@ -973,6 +1015,8 @@
   
   ,"url":"https://www.nps.gov/appa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Appalachian National Scenic Trail"			
   
   ,"parkCode":"appa"
@@ -1019,6 +1063,8 @@
   
   ,"url":"https://www.nps.gov/apco/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Appomattox Court House National Historical Park"			
   
   ,"parkCode":"apco"
@@ -1065,6 +1111,8 @@
   
   ,"url":"https://www.nps.gov/arch/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Arches National Park"			
   
   ,"parkCode":"arch"
@@ -1111,6 +1159,8 @@
   
   ,"url":"https://www.nps.gov/arpo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Arkansas Post National Memorial"			
   
   ,"parkCode":"arpo"
@@ -1157,6 +1207,8 @@
   
   ,"url":"https://www.nps.gov/arho/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Arlington House, The Robert E. Lee Memorial"			
   
   ,"parkCode":"arho"
@@ -1203,6 +1255,8 @@
   
   ,"url":"https://www.nps.gov/asis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Assateague Island National Seashore"			
   
   ,"parkCode":"asis"
@@ -1249,6 +1303,8 @@
   
   ,"url":"https://www.nps.gov/azru/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Aztec Ruins National Monument"			
   
   ,"parkCode":"azru"
@@ -1295,6 +1351,8 @@
   
   ,"url":"https://www.nps.gov/badl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Badlands National Park"			
   
   ,"parkCode":"badl"
@@ -1341,6 +1399,8 @@
   
   ,"url":"https://www.nps.gov/bawa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Baltimore-Washington Parkway"			
   
   ,"parkCode":"bawa"
@@ -1387,6 +1447,8 @@
   
   ,"url":"https://www.nps.gov/band/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Bandelier National Monument"			
   
   ,"parkCode":"band"
@@ -1433,6 +1495,8 @@
   
   ,"url":"https://www.nps.gov/bepa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Belmont-Paul Women's Equality National Monument"			
   
   ,"parkCode":"bepa"
@@ -1479,6 +1543,8 @@
   
   ,"url":"https://www.nps.gov/beol/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Bent's Old Fort National Historic Site"			
   
   ,"parkCode":"beol"
@@ -1525,6 +1591,8 @@
   
   ,"url":"https://www.nps.gov/bela/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Bering Land Bridge National Preserve"			
   
   ,"parkCode":"bela"
@@ -1571,6 +1639,8 @@
   
   ,"url":"https://www.nps.gov/bibe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Big Bend National Park"			
   
   ,"parkCode":"bibe"
@@ -1617,6 +1687,8 @@
   
   ,"url":"https://www.nps.gov/bicy/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Big Cypress National Preserve"			
   
   ,"parkCode":"bicy"
@@ -1663,6 +1735,8 @@
   
   ,"url":"https://www.nps.gov/biho/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Big Hole National Battlefield"			
   
   ,"parkCode":"biho"
@@ -1709,6 +1783,8 @@
   
   ,"url":"https://www.nps.gov/biso/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Big South Fork National River & Recreation Area"			
   
   ,"parkCode":"biso"
@@ -1755,6 +1831,8 @@
   
   ,"url":"https://www.nps.gov/bith/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Big Thicket National Preserve"			
   
   ,"parkCode":"bith"
@@ -1801,6 +1879,8 @@
   
   ,"url":"https://www.nps.gov/bica/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Bighorn Canyon National Recreation Area"			
   
   ,"parkCode":"bica"
@@ -1847,6 +1927,8 @@
   
   ,"url":"https://www.nps.gov/bicr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Birmingham Civil Rights National Monument"			
   
   ,"parkCode":"bicr"
@@ -1893,6 +1975,8 @@
   
   ,"url":"https://www.nps.gov/bisc/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Biscayne National Park"			
   
   ,"parkCode":"bisc"
@@ -1939,6 +2023,8 @@
   
   ,"url":"https://www.nps.gov/blca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Black Canyon Of The Gunnison National Park"			
   
   ,"parkCode":"blca"
@@ -1985,6 +2071,8 @@
   
   ,"url":"https://www.nps.gov/blrv/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Blackstone River Valley National Historical Park"			
   
   ,"parkCode":"blrv"
@@ -2031,6 +2119,8 @@
   
   ,"url":"https://www.nps.gov/blri/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Blue Ridge Parkway"			
   
   ,"parkCode":"blri"
@@ -2077,6 +2167,8 @@
   
   ,"url":"https://www.nps.gov/blue/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Bluestone National Scenic River"			
   
   ,"parkCode":"blue"
@@ -2123,6 +2215,8 @@
   
   ,"url":"https://www.nps.gov/bowa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Booker T Washington National Monument"			
   
   ,"parkCode":"bowa"
@@ -2169,6 +2263,8 @@
   
   ,"url":"https://www.nps.gov/boaf/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Boston African American National Historic Site"			
   
   ,"parkCode":"boaf"
@@ -2215,6 +2311,8 @@
   
   ,"url":"https://www.nps.gov/boha/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Boston Harbor Islands National Recreation Area"			
   
   ,"parkCode":"boha"
@@ -2261,6 +2359,8 @@
   
   ,"url":"https://www.nps.gov/bost/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Boston National Historical Park"			
   
   ,"parkCode":"bost"
@@ -2307,6 +2407,8 @@
   
   ,"url":"https://www.nps.gov/brcr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Brices Cross Roads National Battlefield Site"			
   
   ,"parkCode":"brcr"
@@ -2353,6 +2455,8 @@
   
   ,"url":"https://www.nps.gov/brvb/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Brown v. Board of Education National Historic Site"			
   
   ,"parkCode":"brvb"
@@ -2399,6 +2503,8 @@
   
   ,"url":"https://www.nps.gov/brca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Bryce Canyon National Park"			
   
   ,"parkCode":"brca"
@@ -2445,6 +2551,8 @@
   
   ,"url":"https://www.nps.gov/buis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Buck Island Reef National Monument"			
   
   ,"parkCode":"buis"
@@ -2491,6 +2599,8 @@
   
   ,"url":"https://www.nps.gov/buff/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Buffalo National River"			
   
   ,"parkCode":"buff"
@@ -2537,6 +2647,8 @@
   
   ,"url":"https://www.nps.gov/cabr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cabrillo National Monument"			
   
   ,"parkCode":"cabr"
@@ -2583,6 +2695,8 @@
   
   ,"url":"https://www.nps.gov/cali/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"California National Historic Trail"			
   
   ,"parkCode":"cali"
@@ -2629,6 +2743,8 @@
   
   ,"url":"https://www.nps.gov/cane/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Camp Nelson National Monument"			
   
   ,"parkCode":"cane"
@@ -2675,6 +2791,8 @@
   
   ,"url":"https://www.nps.gov/cana/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Canaveral National Seashore"			
   
   ,"parkCode":"cana"
@@ -2721,6 +2839,8 @@
   
   ,"url":"https://www.nps.gov/cari/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cane River Creole National Historical Park"			
   
   ,"parkCode":"cari"
@@ -2767,6 +2887,8 @@
   
   ,"url":"https://www.nps.gov/cach/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Canyon de Chelly National Monument"			
   
   ,"parkCode":"cach"
@@ -2813,6 +2935,8 @@
   
   ,"url":"https://www.nps.gov/cany/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Canyonlands National Park"			
   
   ,"parkCode":"cany"
@@ -2859,6 +2983,8 @@
   
   ,"url":"https://www.nps.gov/caco/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cape Cod National Seashore"			
   
   ,"parkCode":"caco"
@@ -2905,6 +3031,8 @@
   
   ,"url":"https://www.nps.gov/caha/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cape Hatteras National Seashore"			
   
   ,"parkCode":"caha"
@@ -2951,6 +3079,8 @@
   
   ,"url":"https://www.nps.gov/came/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cape Henry Memorial Part of Colonial National Historical Park"			
   
   ,"parkCode":"came"
@@ -2997,6 +3127,8 @@
   
   ,"url":"https://www.nps.gov/cakr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cape Krusenstern National Monument"			
   
   ,"parkCode":"cakr"
@@ -3043,6 +3175,8 @@
   
   ,"url":"https://www.nps.gov/calo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cape Lookout National Seashore"			
   
   ,"parkCode":"calo"
@@ -3089,6 +3223,8 @@
   
   ,"url":"https://www.nps.gov/cahi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Capitol Hill Parks"			
   
   ,"parkCode":"cahi"
@@ -3135,6 +3271,8 @@
   
   ,"url":"https://www.nps.gov/care/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Capitol Reef National Park"			
   
   ,"parkCode":"care"
@@ -3181,6 +3319,8 @@
   
   ,"url":"https://www.nps.gov/cajo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Captain John Smith Chesapeake National Historic Trail"			
   
   ,"parkCode":"cajo"
@@ -3227,6 +3367,8 @@
   
   ,"url":"https://www.nps.gov/cavo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Capulin Volcano National Monument"			
   
   ,"parkCode":"cavo"
@@ -3273,6 +3415,8 @@
   
   ,"url":"https://www.nps.gov/carl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Carl Sandburg Home National Historic Site"			
   
   ,"parkCode":"carl"
@@ -3319,6 +3463,8 @@
   
   ,"url":"https://www.nps.gov/cave/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Carlsbad Caverns National Park"			
   
   ,"parkCode":"cave"
@@ -3365,6 +3511,8 @@
   
   ,"url":"https://www.nps.gov/cawo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Carter G. Woodson Home National Historic Site"			
   
   ,"parkCode":"cawo"
@@ -3411,6 +3559,8 @@
   
   ,"url":"https://www.nps.gov/cagr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Casa Grande Ruins National Monument"			
   
   ,"parkCode":"cagr"
@@ -3457,6 +3607,8 @@
   
   ,"url":"https://www.nps.gov/casa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Castillo de San Marcos National Monument"			
   
   ,"parkCode":"casa"
@@ -3503,6 +3655,8 @@
   
   ,"url":"https://www.nps.gov/cacl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Castle Clinton National Monument"			
   
   ,"parkCode":"cacl"
@@ -3549,6 +3703,8 @@
   
   ,"url":"https://www.nps.gov/camo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Castle Mountains National Monument"			
   
   ,"parkCode":"camo"
@@ -3595,6 +3751,8 @@
   
   ,"url":"https://www.nps.gov/cato/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Catoctin Mountain Park"			
   
   ,"parkCode":"cato"
@@ -3641,6 +3799,8 @@
   
   ,"url":"https://www.nps.gov/cebr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cedar Breaks National Monument"			
   
   ,"parkCode":"cebr"
@@ -3687,6 +3847,8 @@
   
   ,"url":"https://www.nps.gov/cebe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cedar Creek & Belle Grove National Historical Park"			
   
   ,"parkCode":"cebe"
@@ -3733,6 +3895,8 @@
   
   ,"url":"https://www.nps.gov/chcu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Chaco Culture National Historical Park"			
   
   ,"parkCode":"chcu"
@@ -3779,6 +3943,8 @@
   
   ,"url":"https://www.nps.gov/cham/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Chamizal National Memorial"			
   
   ,"parkCode":"cham"
@@ -3825,6 +3991,8 @@
   
   ,"url":"https://www.nps.gov/chis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Channel Islands National Park"			
   
   ,"parkCode":"chis"
@@ -3871,6 +4039,8 @@
   
   ,"url":"https://www.nps.gov/chpi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Charles Pinckney National Historic Site"			
   
   ,"parkCode":"chpi"
@@ -3917,6 +4087,8 @@
   
   ,"url":"https://www.nps.gov/chyo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Charles Young Buffalo Soldiers National Monument"			
   
   ,"parkCode":"chyo"
@@ -3963,6 +4135,8 @@
   
   ,"url":"https://www.nps.gov/chat/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Chattahoochee River National Recreation Area"			
   
   ,"parkCode":"chat"
@@ -4009,6 +4183,8 @@
   
   ,"url":"https://www.nps.gov/choh/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Chesapeake & Ohio Canal National Historical Park"			
   
   ,"parkCode":"choh"
@@ -4055,6 +4231,8 @@
   
   ,"url":"https://www.nps.gov/cbpo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Chesapeake Bay"			
   
   ,"parkCode":"cbpo"
@@ -4101,6 +4279,8 @@
   
   ,"url":"https://www.nps.gov/cbgn/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Chesapeake Bay Gateways and Watertrails Network"			
   
   ,"parkCode":"cbgn"
@@ -4147,6 +4327,8 @@
   
   ,"url":"https://www.nps.gov/chch/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Chickamauga & Chattanooga National Military Park"			
   
   ,"parkCode":"chch"
@@ -4193,6 +4375,8 @@
   
   ,"url":"https://www.nps.gov/chic/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Chickasaw National Recreation Area"			
   
   ,"parkCode":"chic"
@@ -4239,6 +4423,8 @@
   
   ,"url":"https://www.nps.gov/chir/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Chiricahua National Monument"			
   
   ,"parkCode":"chir"
@@ -4285,6 +4471,8 @@
   
   ,"url":"https://www.nps.gov/chri/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Christiansted National Historic Site"			
   
   ,"parkCode":"chri"
@@ -4331,6 +4519,8 @@
   
   ,"url":"https://www.nps.gov/ciro/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"City Of Rocks National Reserve"			
   
   ,"parkCode":"ciro"
@@ -4377,6 +4567,8 @@
   
   ,"url":"https://www.nps.gov/cwdw/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Civil War Defenses of Washington"			
   
   ,"parkCode":"cwdw"
@@ -4423,6 +4615,8 @@
   
   ,"url":"https://www.nps.gov/clba/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Clara Barton National Historic Site"			
   
   ,"parkCode":"clba"
@@ -4469,6 +4663,8 @@
   
   ,"url":"https://www.nps.gov/colo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Colonial National Historical Park"			
   
   ,"parkCode":"colo"
@@ -4515,6 +4711,8 @@
   
   ,"url":"https://www.nps.gov/colm/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Colorado National Monument"			
   
   ,"parkCode":"colm"
@@ -4561,6 +4759,8 @@
   
   ,"url":"https://www.nps.gov/colt/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Coltsville National Historical Park"			
   
   ,"parkCode":"colt"
@@ -4607,6 +4807,8 @@
   
   ,"url":"https://www.nps.gov/cong/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Congaree National Park"			
   
   ,"parkCode":"cong"
@@ -4653,6 +4855,8 @@
   
   ,"url":"https://www.nps.gov/coga/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Constitution Gardens"			
   
   ,"parkCode":"coga"
@@ -4699,6 +4903,8 @@
   
   ,"url":"https://www.nps.gov/coro/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Coronado National Memorial"			
   
   ,"parkCode":"coro"
@@ -4745,6 +4951,8 @@
   
   ,"url":"https://www.nps.gov/cowp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cowpens National Battlefield"			
   
   ,"parkCode":"cowp"
@@ -4791,6 +4999,8 @@
   
   ,"url":"https://www.nps.gov/crla/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Crater Lake National Park"			
   
   ,"parkCode":"crla"
@@ -4837,6 +5047,8 @@
   
   ,"url":"https://www.nps.gov/crmo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Craters Of The Moon National Monument & Preserve"			
   
   ,"parkCode":"crmo"
@@ -4883,6 +5095,8 @@
   
   ,"url":"https://www.nps.gov/cuga/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cumberland Gap National Historical Park"			
   
   ,"parkCode":"cuga"
@@ -4929,6 +5143,8 @@
   
   ,"url":"https://www.nps.gov/cuis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cumberland Island National Seashore"			
   
   ,"parkCode":"cuis"
@@ -4975,6 +5191,8 @@
   
   ,"url":"https://www.nps.gov/cure/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Curecanti National Recreation Area"			
   
   ,"parkCode":"cure"
@@ -5021,6 +5239,8 @@
   
   ,"url":"https://www.nps.gov/cuva/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Cuyahoga Valley National Park"			
   
   ,"parkCode":"cuva"
@@ -5067,6 +5287,8 @@
   
   ,"url":"https://www.nps.gov/cech/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"César E. Chávez National Monument"			
   
   ,"parkCode":"cech"
@@ -5113,6 +5335,8 @@
   
   ,"url":"https://www.nps.gov/daav/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Dayton Aviation Heritage National Historical Park"			
   
   ,"parkCode":"daav"
@@ -5159,6 +5383,8 @@
   
   ,"url":"https://www.nps.gov/deso/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"De Soto National Memorial"			
   
   ,"parkCode":"deso"
@@ -5205,6 +5431,8 @@
   
   ,"url":"https://www.nps.gov/deva/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Death Valley National Park"			
   
   ,"parkCode":"deva"
@@ -5251,6 +5479,8 @@
   
   ,"url":"https://www.nps.gov/dewa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Delaware Water Gap National Recreation Area"			
   
   ,"parkCode":"dewa"
@@ -5297,6 +5527,8 @@
   
   ,"url":"https://www.nps.gov/dena/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Denali National Park & Preserve"			
   
   ,"parkCode":"dena"
@@ -5343,6 +5575,8 @@
   
   ,"url":"https://www.nps.gov/depo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Devils Postpile National Monument"			
   
   ,"parkCode":"depo"
@@ -5389,6 +5623,8 @@
   
   ,"url":"https://www.nps.gov/deto/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Devils Tower National Monument"			
   
   ,"parkCode":"deto"
@@ -5435,6 +5671,8 @@
   
   ,"url":"https://www.nps.gov/dino/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Dinosaur National Monument"			
   
   ,"parkCode":"dino"
@@ -5481,6 +5719,8 @@
   
   ,"url":"https://www.nps.gov/drto/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Dry Tortugas National Park"			
   
   ,"parkCode":"drto"
@@ -5527,6 +5767,8 @@
   
   ,"url":"https://www.nps.gov/ddem/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Dwight D. Eisenhower Memorial"			
   
   ,"parkCode":"ddem"
@@ -5573,6 +5815,8 @@
   
   ,"url":"https://www.nps.gov/ebla/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ebey's Landing National Historical Reserve"			
   
   ,"parkCode":"ebla"
@@ -5619,6 +5863,8 @@
   
   ,"url":"https://www.nps.gov/edal/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Edgar Allan Poe National Historic Site"			
   
   ,"parkCode":"edal"
@@ -5665,6 +5911,8 @@
   
   ,"url":"https://www.nps.gov/efmo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Effigy Mounds National Monument"			
   
   ,"parkCode":"efmo"
@@ -5711,6 +5959,8 @@
   
   ,"url":"https://www.nps.gov/eise/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Eisenhower National Historic Site"			
   
   ,"parkCode":"eise"
@@ -5757,6 +6007,8 @@
   
   ,"url":"https://www.nps.gov/elca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"El Camino Real de Tierra Adentro National Historic Trail"			
   
   ,"parkCode":"elca"
@@ -5803,6 +6055,8 @@
   
   ,"url":"https://www.nps.gov/elte/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"El Camino Real de los Tejas National Historic Trail"			
   
   ,"parkCode":"elte"
@@ -5849,6 +6103,8 @@
   
   ,"url":"https://www.nps.gov/elma/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"El Malpais National Monument"			
   
   ,"parkCode":"elma"
@@ -5895,6 +6151,8 @@
   
   ,"url":"https://www.nps.gov/elmo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"El Morro National Monument"			
   
   ,"parkCode":"elmo"
@@ -5941,6 +6199,8 @@
   
   ,"url":"https://www.nps.gov/elro/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Eleanor Roosevelt National Historic Site"			
   
   ,"parkCode":"elro"
@@ -5987,6 +6247,8 @@
   
   ,"url":"https://www.nps.gov/elis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ellis Island Part of Statue of Liberty National Monument"			
   
   ,"parkCode":"elis"
@@ -6033,6 +6295,8 @@
   
   ,"url":"https://www.nps.gov/euon/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Eugene O'Neill National Historic Site"			
   
   ,"parkCode":"euon"
@@ -6079,6 +6343,8 @@
   
   ,"url":"https://www.nps.gov/ever/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Everglades National Park"			
   
   ,"parkCode":"ever"
@@ -6125,6 +6391,8 @@
   
   ,"url":"https://www.nps.gov/feha/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Federal Hall National Memorial"			
   
   ,"parkCode":"feha"
@@ -6171,6 +6439,8 @@
   
   ,"url":"https://www.nps.gov/fiis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fire Island National Seashore"			
   
   ,"parkCode":"fiis"
@@ -6217,6 +6487,8 @@
   
   ,"url":"https://www.nps.gov/fila/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"First Ladies National Historic Site"			
   
   ,"parkCode":"fila"
@@ -6263,6 +6535,8 @@
   
   ,"url":"https://www.nps.gov/frst/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"First State National Historical Park"			
   
   ,"parkCode":"frst"
@@ -6309,6 +6583,8 @@
   
   ,"url":"https://www.nps.gov/flni/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Flight 93 National Memorial"			
   
   ,"parkCode":"flni"
@@ -6355,6 +6631,8 @@
   
   ,"url":"https://www.nps.gov/flfo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Florissant Fossil Beds National Monument"			
   
   ,"parkCode":"flfo"
@@ -6401,6 +6679,8 @@
   
   ,"url":"https://www.nps.gov/foth/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ford's Theatre"			
   
   ,"parkCode":"foth"
@@ -6447,6 +6727,8 @@
   
   ,"url":"https://www.nps.gov/fobo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Bowie National Historic Site"			
   
   ,"parkCode":"fobo"
@@ -6493,6 +6775,8 @@
   
   ,"url":"https://www.nps.gov/foda/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Davis National Historic Site"			
   
   ,"parkCode":"foda"
@@ -6539,6 +6823,8 @@
   
   ,"url":"https://www.nps.gov/fodo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Donelson National Battlefield"			
   
   ,"parkCode":"fodo"
@@ -6585,6 +6871,8 @@
   
   ,"url":"https://www.nps.gov/fodu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Dupont Park"			
   
   ,"parkCode":"fodu"
@@ -6631,6 +6919,8 @@
   
   ,"url":"https://www.nps.gov/fofo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Foote Park"			
   
   ,"parkCode":"fofo"
@@ -6677,6 +6967,8 @@
   
   ,"url":"https://www.nps.gov/fofr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Frederica National Monument"			
   
   ,"parkCode":"fofr"
@@ -6723,6 +7015,8 @@
   
   ,"url":"https://www.nps.gov/fola/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Laramie National Historic Site"			
   
   ,"parkCode":"fola"
@@ -6769,6 +7063,8 @@
   
   ,"url":"https://www.nps.gov/fols/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Larned National Historic Site"			
   
   ,"parkCode":"fols"
@@ -6815,6 +7111,8 @@
   
   ,"url":"https://www.nps.gov/foma/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Matanzas National Monument"			
   
   ,"parkCode":"foma"
@@ -6861,6 +7159,8 @@
   
   ,"url":"https://www.nps.gov/fomc/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort McHenry National Monument and Historic Shrine"			
   
   ,"parkCode":"fomc"
@@ -6907,6 +7207,8 @@
   
   ,"url":"https://www.nps.gov/fomr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Monroe National Monument"			
   
   ,"parkCode":"fomr"
@@ -6953,6 +7255,8 @@
   
   ,"url":"https://www.nps.gov/fone/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Necessity National Battlefield"			
   
   ,"parkCode":"fone"
@@ -6999,6 +7303,8 @@
   
   ,"url":"https://www.nps.gov/fopo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Point National Historic Site"			
   
   ,"parkCode":"fopo"
@@ -7045,6 +7351,8 @@
   
   ,"url":"https://www.nps.gov/fopu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Pulaski National Monument"			
   
   ,"parkCode":"fopu"
@@ -7091,6 +7399,8 @@
   
   ,"url":"https://www.nps.gov/fora/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Raleigh National Historic Site"			
   
   ,"parkCode":"fora"
@@ -7137,6 +7447,8 @@
   
   ,"url":"https://www.nps.gov/fosc/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Scott National Historic Site"			
   
   ,"parkCode":"fosc"
@@ -7183,6 +7495,8 @@
   
   ,"url":"https://www.nps.gov/fosm/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Smith National Historic Site"			
   
   ,"parkCode":"fosm"
@@ -7229,6 +7543,8 @@
   
   ,"url":"https://www.nps.gov/fost/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Stanwix National Monument"			
   
   ,"parkCode":"fost"
@@ -7275,6 +7591,8 @@
   
   ,"url":"https://www.nps.gov/fosu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Sumter and Fort Moultrie National Historical Park"			
   
   ,"parkCode":"fosu"
@@ -7321,6 +7639,8 @@
   
   ,"url":"https://www.nps.gov/foun/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Union National Monument"			
   
   ,"parkCode":"foun"
@@ -7367,6 +7687,8 @@
   
   ,"url":"https://www.nps.gov/fous/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Union Trading Post National Historic Site"			
   
   ,"parkCode":"fous"
@@ -7413,6 +7735,8 @@
   
   ,"url":"https://www.nps.gov/fova/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Vancouver National Historic Site"			
   
   ,"parkCode":"fova"
@@ -7459,6 +7783,8 @@
   
   ,"url":"https://www.nps.gov/fowa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fort Washington Park"			
   
   ,"parkCode":"fowa"
@@ -7505,6 +7831,8 @@
   
   ,"url":"https://www.nps.gov/fobu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fossil Butte National Monument"			
   
   ,"parkCode":"fobu"
@@ -7551,6 +7879,8 @@
   
   ,"url":"https://www.nps.gov/frde/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Franklin Delano Roosevelt Memorial"			
   
   ,"parkCode":"frde"
@@ -7597,6 +7927,8 @@
   
   ,"url":"https://www.nps.gov/frdo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Frederick Douglass National Historic Site"			
   
   ,"parkCode":"frdo"
@@ -7643,6 +7975,8 @@
   
   ,"url":"https://www.nps.gov/frla/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Frederick Law Olmsted National Historic Site"			
   
   ,"parkCode":"frla"
@@ -7689,6 +8023,8 @@
   
   ,"url":"https://www.nps.gov/frsp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Fredericksburg & Spotsylvania National Military Park"			
   
   ,"parkCode":"frsp"
@@ -7735,6 +8071,8 @@
   
   ,"url":"https://www.nps.gov/frri/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Freedom Riders National Monument"			
   
   ,"parkCode":"frri"
@@ -7781,6 +8119,8 @@
   
   ,"url":"https://www.nps.gov/frhi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Friendship Hill National Historic Site"			
   
   ,"parkCode":"frhi"
@@ -7827,6 +8167,8 @@
   
   ,"url":"https://www.nps.gov/gaar/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Gates Of The Arctic National Park & Preserve"			
   
   ,"parkCode":"gaar"
@@ -7873,6 +8215,8 @@
   
   ,"url":"https://www.nps.gov/jeff/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Gateway Arch National Park"			
   
   ,"parkCode":"jeff"
@@ -7919,6 +8263,8 @@
   
   ,"url":"https://www.nps.gov/gate/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Gateway National Recreation Area"			
   
   ,"parkCode":"gate"
@@ -7965,6 +8311,8 @@
   
   ,"url":"https://www.nps.gov/gari/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Gauley River National Recreation Area"			
   
   ,"parkCode":"gari"
@@ -8011,6 +8359,8 @@
   
   ,"url":"https://www.nps.gov/gegr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"General Grant National Memorial"			
   
   ,"parkCode":"gegr"
@@ -8057,6 +8407,8 @@
   
   ,"url":"https://www.nps.gov/gero/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"George Rogers Clark National Historical Park"			
   
   ,"parkCode":"gero"
@@ -8103,6 +8455,8 @@
   
   ,"url":"https://www.nps.gov/gewa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"George Washington Birthplace National Monument"			
   
   ,"parkCode":"gewa"
@@ -8149,6 +8503,8 @@
   
   ,"url":"https://www.nps.gov/gwca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"George Washington Carver National Monument"			
   
   ,"parkCode":"gwca"
@@ -8195,6 +8551,8 @@
   
   ,"url":"https://www.nps.gov/gwmp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"George Washington Memorial Parkway"			
   
   ,"parkCode":"gwmp"
@@ -8241,6 +8599,8 @@
   
   ,"url":"https://www.nps.gov/gett/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Gettysburg National Military Park"			
   
   ,"parkCode":"gett"
@@ -8287,6 +8647,8 @@
   
   ,"url":"https://www.nps.gov/gicl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Gila Cliff Dwellings National Monument"			
   
   ,"parkCode":"gicl"
@@ -8333,6 +8695,8 @@
   
   ,"url":"https://www.nps.gov/glba/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Glacier Bay National Park & Preserve"			
   
   ,"parkCode":"glba"
@@ -8379,6 +8743,8 @@
   
   ,"url":"https://www.nps.gov/glac/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Glacier National Park"			
   
   ,"parkCode":"glac"
@@ -8425,6 +8791,8 @@
   
   ,"url":"https://www.nps.gov/glca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Glen Canyon National Recreation Area"			
   
   ,"parkCode":"glca"
@@ -8471,6 +8839,8 @@
   
   ,"url":"https://www.nps.gov/glec/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Glen Echo Park"			
   
   ,"parkCode":"glec"
@@ -8517,6 +8887,8 @@
   
   ,"url":"https://www.nps.gov/glde/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Gloria Dei Church National Historic Site"			
   
   ,"parkCode":"glde"
@@ -8563,6 +8935,8 @@
   
   ,"url":"https://www.nps.gov/goga/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Golden Gate National Recreation Area"			
   
   ,"parkCode":"goga"
@@ -8609,6 +8983,8 @@
   
   ,"url":"https://www.nps.gov/gosp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Golden Spike National Historical Park"			
   
   ,"parkCode":"gosp"
@@ -8655,6 +9031,8 @@
   
   ,"url":"https://www.nps.gov/gois/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Governors Island National Monument"			
   
   ,"parkCode":"gois"
@@ -8701,6 +9079,8 @@
   
   ,"url":"https://www.nps.gov/grca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Grand Canyon National Park"			
   
   ,"parkCode":"grca"
@@ -8747,6 +9127,8 @@
   
   ,"url":"https://www.nps.gov/para/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Grand Canyon-Parashant National Monument"			
   
   ,"parkCode":"para"
@@ -8793,6 +9175,8 @@
   
   ,"url":"https://www.nps.gov/grpo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Grand Portage National Monument"			
   
   ,"parkCode":"grpo"
@@ -8839,6 +9223,8 @@
   
   ,"url":"https://www.nps.gov/grte/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Grand Teton National Park"			
   
   ,"parkCode":"grte"
@@ -8885,6 +9271,8 @@
   
   ,"url":"https://www.nps.gov/grko/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Grant-Kohrs Ranch National Historic Site"			
   
   ,"parkCode":"grko"
@@ -8931,6 +9319,8 @@
   
   ,"url":"https://www.nps.gov/grba/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Great Basin National Park"			
   
   ,"parkCode":"grba"
@@ -8977,6 +9367,8 @@
   
   ,"url":"https://www.nps.gov/greg/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Great Egg Harbor River"			
   
   ,"parkCode":"greg"
@@ -9023,6 +9415,8 @@
   
   ,"url":"https://www.nps.gov/grfa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Great Falls Park"			
   
   ,"parkCode":"grfa"
@@ -9069,6 +9463,8 @@
   
   ,"url":"https://www.nps.gov/grsa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Great Sand Dunes National Park & Preserve"			
   
   ,"parkCode":"grsa"
@@ -9115,6 +9511,8 @@
   
   ,"url":"https://www.nps.gov/grsm/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Great Smoky Mountains National Park"			
   
   ,"parkCode":"grsm"
@@ -9161,6 +9559,8 @@
   
   ,"url":"https://www.nps.gov/grsp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Green Springs"			
   
   ,"parkCode":"grsp"
@@ -9207,6 +9607,8 @@
   
   ,"url":"https://www.nps.gov/gree/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Greenbelt Park"			
   
   ,"parkCode":"gree"
@@ -9253,6 +9655,8 @@
   
   ,"url":"https://www.nps.gov/gumo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Guadalupe Mountains National Park"			
   
   ,"parkCode":"gumo"
@@ -9299,6 +9703,8 @@
   
   ,"url":"https://www.nps.gov/guco/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Guilford Courthouse National Military Park"			
   
   ,"parkCode":"guco"
@@ -9345,6 +9751,8 @@
   
   ,"url":"https://www.nps.gov/guis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Gulf Islands National Seashore"			
   
   ,"parkCode":"guis"
@@ -9391,6 +9799,8 @@
   
   ,"url":"https://www.nps.gov/hafo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Hagerman Fossil Beds National Monument"			
   
   ,"parkCode":"hafo"
@@ -9437,6 +9847,8 @@
   
   ,"url":"https://www.nps.gov/hale/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Haleakalā National Park"			
   
   ,"parkCode":"hale"
@@ -9483,6 +9895,8 @@
   
   ,"url":"https://www.nps.gov/hagr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Hamilton Grange National Memorial"			
   
   ,"parkCode":"hagr"
@@ -9529,6 +9943,8 @@
   
   ,"url":"https://www.nps.gov/hamp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Hampton National Historic Site"			
   
   ,"parkCode":"hamp"
@@ -9575,6 +9991,8 @@
   
   ,"url":"https://www.nps.gov/haha/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Harmony Hall"			
   
   ,"parkCode":"haha"
@@ -9621,6 +10039,8 @@
   
   ,"url":"https://www.nps.gov/hafe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Harpers Ferry National Historical Park"			
   
   ,"parkCode":"hafe"
@@ -9667,6 +10087,8 @@
   
   ,"url":"https://www.nps.gov/hart/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Harriet Tubman National Historical Park"			
   
   ,"parkCode":"hart"
@@ -9713,6 +10135,8 @@
   
   ,"url":"https://www.nps.gov/hatu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Harriet Tubman Underground Railroad National Historical Park"			
   
   ,"parkCode":"hatu"
@@ -9759,6 +10183,8 @@
   
   ,"url":"https://www.nps.gov/hstr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Harry S Truman National Historic Site"			
   
   ,"parkCode":"hstr"
@@ -9805,6 +10231,8 @@
   
   ,"url":"https://www.nps.gov/havo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Hawai'i Volcanoes National Park"			
   
   ,"parkCode":"havo"
@@ -9851,6 +10279,8 @@
   
   ,"url":"https://www.nps.gov/heho/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Herbert Hoover National Historic Site"			
   
   ,"parkCode":"heho"
@@ -9897,6 +10327,8 @@
   
   ,"url":"https://www.nps.gov/jame/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Historic Jamestowne Part of Colonial National Historical Park"			
   
   ,"parkCode":"jame"
@@ -9943,6 +10375,8 @@
   
   ,"url":"https://www.nps.gov/hofr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Home Of Franklin D Roosevelt National Historic Site"			
   
   ,"parkCode":"hofr"
@@ -9989,6 +10423,8 @@
   
   ,"url":"https://www.nps.gov/home/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Homestead National Historical Park"			
   
   ,"parkCode":"home"
@@ -10035,6 +10471,8 @@
   
   ,"url":"https://www.nps.gov/hono/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Honouliuli National Historic Site"			
   
   ,"parkCode":"hono"
@@ -10081,6 +10519,8 @@
   
   ,"url":"https://www.nps.gov/hocu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Hopewell Culture National Historical Park"			
   
   ,"parkCode":"hocu"
@@ -10127,6 +10567,8 @@
   
   ,"url":"https://www.nps.gov/hofu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Hopewell Furnace National Historic Site"			
   
   ,"parkCode":"hofu"
@@ -10173,6 +10615,8 @@
   
   ,"url":"https://www.nps.gov/hobe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Horseshoe Bend National Military Park"			
   
   ,"parkCode":"hobe"
@@ -10219,6 +10663,8 @@
   
   ,"url":"https://www.nps.gov/hosp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Hot Springs National Park"			
   
   ,"parkCode":"hosp"
@@ -10265,6 +10711,8 @@
   
   ,"url":"https://www.nps.gov/hove/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Hovenweep National Monument"			
   
   ,"parkCode":"hove"
@@ -10311,6 +10759,8 @@
   
   ,"url":"https://www.nps.gov/hutr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Hubbell Trading Post National Historic Site"			
   
   ,"parkCode":"hutr"
@@ -10357,6 +10807,8 @@
   
   ,"url":"https://www.nps.gov/iafl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ice Age Floods National Geologic Trail"			
   
   ,"parkCode":"iafl"
@@ -10403,6 +10855,8 @@
   
   ,"url":"https://www.nps.gov/iatr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ice Age National Scenic Trail"			
   
   ,"parkCode":"iatr"
@@ -10449,6 +10903,8 @@
   
   ,"url":"https://www.nps.gov/inde/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Independence National Historical Park"			
   
   ,"parkCode":"inde"
@@ -10495,6 +10951,8 @@
   
   ,"url":"https://www.nps.gov/indu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Indiana Dunes National Park"			
   
   ,"parkCode":"indu"
@@ -10541,6 +10999,8 @@
   
   ,"url":"https://www.nps.gov/isro/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Isle Royale National Park"			
   
   ,"parkCode":"isro"
@@ -10587,6 +11047,8 @@
   
   ,"url":"https://www.nps.gov/inup/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Iñupiat Heritage Center"			
   
   ,"parkCode":"inup"
@@ -10633,6 +11095,8 @@
   
   ,"url":"https://www.nps.gov/jaga/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"James A Garfield National Historic Site"			
   
   ,"parkCode":"jaga"
@@ -10679,6 +11143,8 @@
   
   ,"url":"https://www.nps.gov/jela/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Jean Lafitte National Historical Park and Preserve"			
   
   ,"parkCode":"jela"
@@ -10725,6 +11191,8 @@
   
   ,"url":"https://www.nps.gov/jeca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Jewel Cave National Monument"			
   
   ,"parkCode":"jeca"
@@ -10771,6 +11239,8 @@
   
   ,"url":"https://www.nps.gov/jica/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Jimmy Carter National Historical Park"			
   
   ,"parkCode":"jica"
@@ -10817,6 +11287,8 @@
   
   ,"url":"https://www.nps.gov/joda/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"John Day Fossil Beds National Monument"			
   
   ,"parkCode":"joda"
@@ -10863,6 +11335,8 @@
   
   ,"url":"https://www.nps.gov/jofi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"John Fitzgerald Kennedy National Historic Site"			
   
   ,"parkCode":"jofi"
@@ -10909,6 +11383,8 @@
   
   ,"url":"https://www.nps.gov/jomu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"John Muir National Historic Site"			
   
   ,"parkCode":"jomu"
@@ -10955,6 +11431,8 @@
   
   ,"url":"https://www.nps.gov/jofl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Johnstown Flood National Memorial"			
   
   ,"parkCode":"jofl"
@@ -11001,6 +11479,8 @@
   
   ,"url":"https://www.nps.gov/jotr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Joshua Tree National Park"			
   
   ,"parkCode":"jotr"
@@ -11047,6 +11527,8 @@
   
   ,"url":"https://www.nps.gov/juba/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Juan Bautista de Anza National Historic Trail"			
   
   ,"parkCode":"juba"
@@ -11093,6 +11575,8 @@
   
   ,"url":"https://www.nps.gov/kala/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Kalaupapa National Historical Park"			
   
   ,"parkCode":"kala"
@@ -11139,6 +11623,8 @@
   
   ,"url":"https://www.nps.gov/kaho/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Kaloko-Honokōhau National Historical Park"			
   
   ,"parkCode":"kaho"
@@ -11185,6 +11671,8 @@
   
   ,"url":"https://www.nps.gov/kaww/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Katahdin Woods and Waters National Monument"			
   
   ,"parkCode":"kaww"
@@ -11231,6 +11719,8 @@
   
   ,"url":"https://www.nps.gov/katm/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Katmai National Park & Preserve"			
   
   ,"parkCode":"katm"
@@ -11277,6 +11767,8 @@
   
   ,"url":"https://www.nps.gov/kefj/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Kenai Fjords National Park"			
   
   ,"parkCode":"kefj"
@@ -11323,6 +11815,8 @@
   
   ,"url":"https://www.nps.gov/keaq/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Kenilworth Park & Aquatic Gardens"			
   
   ,"parkCode":"keaq"
@@ -11369,6 +11863,8 @@
   
   ,"url":"https://www.nps.gov/kemo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Kennesaw Mountain National Battlefield Park"			
   
   ,"parkCode":"kemo"
@@ -11415,6 +11911,8 @@
   
   ,"url":"https://www.nps.gov/kewe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Keweenaw National Historical Park"			
   
   ,"parkCode":"kewe"
@@ -11461,6 +11959,8 @@
   
   ,"url":"https://www.nps.gov/kimo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Kings Mountain National Military Park"			
   
   ,"parkCode":"kimo"
@@ -11507,6 +12007,8 @@
   
   ,"url":"https://www.nps.gov/klse/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Klondike Gold Rush - Seattle Unit National Historical Park"			
   
   ,"parkCode":"klse"
@@ -11553,6 +12055,8 @@
   
   ,"url":"https://www.nps.gov/klgo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Klondike Gold Rush National Historical Park"			
   
   ,"parkCode":"klgo"
@@ -11599,6 +12103,8 @@
   
   ,"url":"https://www.nps.gov/knri/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Knife River Indian Villages National Historic Site"			
   
   ,"parkCode":"knri"
@@ -11645,6 +12151,8 @@
   
   ,"url":"https://www.nps.gov/kova/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Kobuk Valley National Park"			
   
   ,"parkCode":"kova"
@@ -11691,6 +12199,8 @@
   
   ,"url":"https://www.nps.gov/kowa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Korean War Veterans Memorial"			
   
   ,"parkCode":"kowa"
@@ -11737,6 +12247,8 @@
   
   ,"url":"https://www.nps.gov/lyba/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"LBJ Memorial Grove on the Potomac"			
   
   ,"parkCode":"lyba"
@@ -11783,6 +12295,8 @@
   
   ,"url":"https://www.nps.gov/lacl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lake Clark National Park & Preserve"			
   
   ,"parkCode":"lacl"
@@ -11829,6 +12343,8 @@
   
   ,"url":"https://www.nps.gov/lake/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lake Mead National Recreation Area"			
   
   ,"parkCode":"lake"
@@ -11875,6 +12391,8 @@
   
   ,"url":"https://www.nps.gov/lamr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lake Meredith National Recreation Area"			
   
   ,"parkCode":"lamr"
@@ -11921,6 +12439,8 @@
   
   ,"url":"https://www.nps.gov/laro/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lake Roosevelt National Recreation Area"			
   
   ,"parkCode":"laro"
@@ -11967,6 +12487,8 @@
   
   ,"url":"https://www.nps.gov/lavo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lassen Volcanic National Park"			
   
   ,"parkCode":"lavo"
@@ -12013,6 +12535,8 @@
   
   ,"url":"https://www.nps.gov/labe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lava Beds National Monument"			
   
   ,"parkCode":"labe"
@@ -12059,6 +12583,8 @@
   
   ,"url":"https://www.nps.gov/lecl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lewis & Clark National Historic Trail"			
   
   ,"parkCode":"lecl"
@@ -12105,6 +12631,8 @@
   
   ,"url":"https://www.nps.gov/lewi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lewis and Clark National Historical Park"			
   
   ,"parkCode":"lewi"
@@ -12151,6 +12679,8 @@
   
   ,"url":"https://www.nps.gov/libo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lincoln Boyhood National Memorial"			
   
   ,"parkCode":"libo"
@@ -12197,6 +12727,8 @@
   
   ,"url":"https://www.nps.gov/liho/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lincoln Home National Historic Site"			
   
   ,"parkCode":"liho"
@@ -12243,6 +12775,8 @@
   
   ,"url":"https://www.nps.gov/linc/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lincoln Memorial"			
   
   ,"parkCode":"linc"
@@ -12289,6 +12823,8 @@
   
   ,"url":"https://www.nps.gov/libi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Little Bighorn Battlefield National Monument"			
   
   ,"parkCode":"libi"
@@ -12335,6 +12871,8 @@
   
   ,"url":"https://www.nps.gov/liri/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Little River Canyon National Preserve"			
   
   ,"parkCode":"liri"
@@ -12381,6 +12919,8 @@
   
   ,"url":"https://www.nps.gov/chsc/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Little Rock Central High School National Historic Site"			
   
   ,"parkCode":"chsc"
@@ -12427,6 +12967,8 @@
   
   ,"url":"https://www.nps.gov/long/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Longfellow House Washington's Headquarters National Historic Site"			
   
   ,"parkCode":"long"
@@ -12473,6 +13015,8 @@
   
   ,"url":"https://www.nps.gov/lowe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lowell National Historical Park"			
   
   ,"parkCode":"lowe"
@@ -12519,6 +13063,8 @@
   
   ,"url":"https://www.nps.gov/lode/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lower Delaware National Wild and Scenic River"			
   
   ,"parkCode":"lode"
@@ -12565,6 +13111,8 @@
   
   ,"url":"https://www.nps.gov/loea/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lower East Side Tenement Museum National Historic Site"			
   
   ,"parkCode":"loea"
@@ -12611,6 +13159,8 @@
   
   ,"url":"https://www.nps.gov/lyjo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Lyndon B Johnson National Historical Park"			
   
   ,"parkCode":"lyjo"
@@ -12657,6 +13207,8 @@
   
   ,"url":"https://www.nps.gov/mawa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Maggie L Walker National Historic Site"			
   
   ,"parkCode":"mawa"
@@ -12703,6 +13255,8 @@
   
   ,"url":"https://www.nps.gov/maac/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Maine Acadian Culture"			
   
   ,"parkCode":"maac"
@@ -12749,6 +13303,8 @@
   
   ,"url":"https://www.nps.gov/maca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Mammoth Cave National Park"			
   
   ,"parkCode":"maca"
@@ -12795,6 +13351,8 @@
   
   ,"url":"https://www.nps.gov/mana/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Manassas National Battlefield Park"			
   
   ,"parkCode":"mana"
@@ -12841,6 +13399,8 @@
   
   ,"url":"https://www.nps.gov/mapr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Manhattan Project National Historical Park"			
   
   ,"parkCode":"mapr"
@@ -12887,6 +13447,8 @@
   
   ,"url":"https://www.nps.gov/manz/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Manzanar National Historic Site"			
   
   ,"parkCode":"manz"
@@ -12933,6 +13495,8 @@
   
   ,"url":"https://www.nps.gov/mabi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Marsh - Billings - Rockefeller National Historical Park"			
   
   ,"parkCode":"mabi"
@@ -12979,6 +13543,8 @@
   
   ,"url":"https://www.nps.gov/mlkm/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Martin Luther King, Jr. Memorial"			
   
   ,"parkCode":"mlkm"
@@ -13025,6 +13591,8 @@
   
   ,"url":"https://www.nps.gov/malu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Martin Luther King, Jr. National Historical Park"			
   
   ,"parkCode":"malu"
@@ -13071,6 +13639,8 @@
   
   ,"url":"https://www.nps.gov/mava/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Martin Van Buren National Historic Site"			
   
   ,"parkCode":"mava"
@@ -13117,6 +13687,8 @@
   
   ,"url":"https://www.nps.gov/mamc/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Mary McLeod Bethune Council House National Historic Site"			
   
   ,"parkCode":"mamc"
@@ -13163,6 +13735,8 @@
   
   ,"url":"https://www.nps.gov/memy/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Medgar and Myrlie Evers Home National Monument"			
   
   ,"parkCode":"memy"
@@ -13209,6 +13783,8 @@
   
   ,"url":"https://www.nps.gov/meve/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Mesa Verde National Park"			
   
   ,"parkCode":"meve"
@@ -13255,6 +13831,8 @@
   
   ,"url":"https://www.nps.gov/misp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Mill Springs Battlefield National Monument"			
   
   ,"parkCode":"misp"
@@ -13301,6 +13879,8 @@
   
   ,"url":"https://www.nps.gov/miin/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Minidoka National Historic Site"			
   
   ,"parkCode":"miin"
@@ -13347,6 +13927,8 @@
   
   ,"url":"https://www.nps.gov/mima/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Minute Man National Historical Park"			
   
   ,"parkCode":"mima"
@@ -13393,6 +13975,8 @@
   
   ,"url":"https://www.nps.gov/mimi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Minuteman Missile National Historic Site"			
   
   ,"parkCode":"mimi"
@@ -13439,6 +14023,8 @@
   
   ,"url":"https://www.nps.gov/miss/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Mississippi National River and Recreation Area"			
   
   ,"parkCode":"miss"
@@ -13485,6 +14071,8 @@
   
   ,"url":"https://www.nps.gov/mnrr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Missouri National Recreational River"			
   
   ,"parkCode":"mnrr"
@@ -13531,6 +14119,8 @@
   
   ,"url":"https://www.nps.gov/moja/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Mojave National Preserve"			
   
   ,"parkCode":"moja"
@@ -13577,6 +14167,8 @@
   
   ,"url":"https://www.nps.gov/mono/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Monocacy National Battlefield"			
   
   ,"parkCode":"mono"
@@ -13623,6 +14215,8 @@
   
   ,"url":"https://www.nps.gov/moca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Montezuma Castle National Monument"			
   
   ,"parkCode":"moca"
@@ -13669,6 +14263,8 @@
   
   ,"url":"https://www.nps.gov/mocr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Moores Creek National Battlefield"			
   
   ,"parkCode":"mocr"
@@ -13715,6 +14311,8 @@
   
   ,"url":"https://www.nps.gov/mopi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Mormon Pioneer National Historic Trail"			
   
   ,"parkCode":"mopi"
@@ -13761,6 +14359,8 @@
   
   ,"url":"https://www.nps.gov/morr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Morristown National Historical Park"			
   
   ,"parkCode":"morr"
@@ -13807,6 +14407,8 @@
   
   ,"url":"https://www.nps.gov/mora/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Mount Rainier National Park"			
   
   ,"parkCode":"mora"
@@ -13853,6 +14455,8 @@
   
   ,"url":"https://www.nps.gov/moru/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Mount Rushmore National Memorial"			
   
   ,"parkCode":"moru"
@@ -13899,6 +14503,8 @@
   
   ,"url":"https://www.nps.gov/muwo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Muir Woods National Monument"			
   
   ,"parkCode":"muwo"
@@ -13945,6 +14551,8 @@
   
   ,"url":"https://www.nps.gov/natc/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Natchez National Historical Park"			
   
   ,"parkCode":"natc"
@@ -13991,6 +14599,8 @@
   
   ,"url":"https://www.nps.gov/natt/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Natchez Trace National Scenic Trail"			
   
   ,"parkCode":"natt"
@@ -14037,6 +14647,8 @@
   
   ,"url":"https://www.nps.gov/natr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Natchez Trace Parkway"			
   
   ,"parkCode":"natr"
@@ -14083,6 +14695,8 @@
   
   ,"url":"https://www.nps.gov/nace/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"National Capital Parks-East"			
   
   ,"parkCode":"nace"
@@ -14129,6 +14743,8 @@
   
   ,"url":"https://www.nps.gov/nama/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"National Mall and Memorial Parks"			
   
   ,"parkCode":"nama"
@@ -14175,6 +14791,8 @@
   
   ,"url":"https://www.nps.gov/npsa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"National Park of American Samoa"			
   
   ,"parkCode":"npsa"
@@ -14221,6 +14839,8 @@
   
   ,"url":"https://www.nps.gov/npnh/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"National Parks of New York Harbor"			
   
   ,"parkCode":"npnh"
@@ -14267,6 +14887,8 @@
   
   ,"url":"https://www.nps.gov/nabr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Natural Bridges National Monument"			
   
   ,"parkCode":"nabr"
@@ -14313,6 +14935,8 @@
   
   ,"url":"https://www.nps.gov/nava/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Navajo National Monument"			
   
   ,"parkCode":"nava"
@@ -14359,6 +14983,8 @@
   
   ,"url":"https://www.nps.gov/nebe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"New Bedford Whaling National Historical Park"			
   
   ,"parkCode":"nebe"
@@ -14405,6 +15031,8 @@
   
   ,"url":"https://www.nps.gov/neen/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"New England National Scenic Trail"			
   
   ,"parkCode":"neen"
@@ -14451,6 +15079,8 @@
   
   ,"url":"https://www.nps.gov/pine/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"New Jersey Pinelands National Reserve"			
   
   ,"parkCode":"pine"
@@ -14497,6 +15127,8 @@
   
   ,"url":"https://www.nps.gov/jazz/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"New Orleans Jazz National Historical Park"			
   
   ,"parkCode":"jazz"
@@ -14543,6 +15175,8 @@
   
   ,"url":"https://www.nps.gov/neri/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"New River Gorge National Park and Preserve"			
   
   ,"parkCode":"neri"
@@ -14589,6 +15223,8 @@
   
   ,"url":"https://www.nps.gov/nepe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Nez Perce National Historical Park"			
   
   ,"parkCode":"nepe"
@@ -14635,6 +15271,8 @@
   
   ,"url":"https://www.nps.gov/nico/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Nicodemus National Historic Site"			
   
   ,"parkCode":"nico"
@@ -14681,6 +15319,8 @@
   
   ,"url":"https://www.nps.gov/nisi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ninety Six National Historic Site"			
   
   ,"parkCode":"nisi"
@@ -14727,6 +15367,8 @@
   
   ,"url":"https://www.nps.gov/niob/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Niobrara National Scenic River"			
   
   ,"parkCode":"niob"
@@ -14773,6 +15415,8 @@
   
   ,"url":"https://www.nps.gov/noat/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Noatak National Preserve"			
   
   ,"parkCode":"noat"
@@ -14819,6 +15463,8 @@
   
   ,"url":"https://www.nps.gov/noca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"North Cascades National Park"			
   
   ,"parkCode":"noca"
@@ -14865,6 +15511,8 @@
   
   ,"url":"https://www.nps.gov/noco/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"North Country National Scenic Trail"			
   
   ,"parkCode":"noco"
@@ -14911,6 +15559,8 @@
   
   ,"url":"https://www.nps.gov/obed/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Obed Wild & Scenic River"			
   
   ,"parkCode":"obed"
@@ -14957,6 +15607,8 @@
   
   ,"url":"https://www.nps.gov/ocmu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ocmulgee Mounds National Historical Park"			
   
   ,"parkCode":"ocmu"
@@ -15003,6 +15655,8 @@
   
   ,"url":"https://www.nps.gov/okci/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Oklahoma City National Memorial"			
   
   ,"parkCode":"okci"
@@ -15049,6 +15703,8 @@
   
   ,"url":"https://www.nps.gov/olsp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Old Spanish National Historic Trail"			
   
   ,"parkCode":"olsp"
@@ -15095,6 +15751,8 @@
   
   ,"url":"https://www.nps.gov/olym/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Olympic National Park"			
   
   ,"parkCode":"olym"
@@ -15141,6 +15799,8 @@
   
   ,"url":"https://www.nps.gov/orca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Oregon Caves National Monument & Preserve"			
   
   ,"parkCode":"orca"
@@ -15187,6 +15847,8 @@
   
   ,"url":"https://www.nps.gov/oreg/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Oregon National Historic Trail"			
   
   ,"parkCode":"oreg"
@@ -15233,6 +15895,8 @@
   
   ,"url":"https://www.nps.gov/orpi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Organ Pipe Cactus National Monument"			
   
   ,"parkCode":"orpi"
@@ -15279,6 +15943,8 @@
   
   ,"url":"https://www.nps.gov/ovvi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Overmountain Victory National Historic Trail"			
   
   ,"parkCode":"ovvi"
@@ -15325,6 +15991,8 @@
   
   ,"url":"https://www.nps.gov/oxhi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Oxon Cove Park & Oxon Hill Farm"			
   
   ,"parkCode":"oxhi"
@@ -15371,6 +16039,8 @@
   
   ,"url":"https://www.nps.gov/ozar/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ozark National Scenic Riverways"			
   
   ,"parkCode":"ozar"
@@ -15417,6 +16087,8 @@
   
   ,"url":"https://www.nps.gov/pais/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Padre Island National Seashore"			
   
   ,"parkCode":"pais"
@@ -15463,6 +16135,8 @@
   
   ,"url":"https://www.nps.gov/paal/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Palo Alto Battlefield National Historical Park"			
   
   ,"parkCode":"paal"
@@ -15509,6 +16183,8 @@
   
   ,"url":"https://www.nps.gov/pagr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Paterson Great Falls National Historical Park"			
   
   ,"parkCode":"pagr"
@@ -15555,6 +16231,8 @@
   
   ,"url":"https://www.nps.gov/peri/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pea Ridge National Military Park"			
   
   ,"parkCode":"peri"
@@ -15601,6 +16279,8 @@
   
   ,"url":"https://www.nps.gov/valr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pearl Harbor National Memorial"			
   
   ,"parkCode":"valr"
@@ -15647,6 +16327,8 @@
   
   ,"url":"https://www.nps.gov/peco/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pecos National Historical Park"			
   
   ,"parkCode":"peco"
@@ -15693,6 +16375,8 @@
   
   ,"url":"https://www.nps.gov/paav/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pennsylvania Avenue"			
   
   ,"parkCode":"paav"
@@ -15739,6 +16423,8 @@
   
   ,"url":"https://www.nps.gov/pevi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Perry's Victory & International Peace Memorial"			
   
   ,"parkCode":"pevi"
@@ -15785,6 +16471,8 @@
   
   ,"url":"https://www.nps.gov/pete/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Petersburg National Battlefield"			
   
   ,"parkCode":"pete"
@@ -15831,6 +16519,8 @@
   
   ,"url":"https://www.nps.gov/pefo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Petrified Forest National Park"			
   
   ,"parkCode":"pefo"
@@ -15877,6 +16567,8 @@
   
   ,"url":"https://www.nps.gov/petr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Petroglyph National Monument"			
   
   ,"parkCode":"petr"
@@ -15923,6 +16615,8 @@
   
   ,"url":"https://www.nps.gov/piro/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pictured Rocks National Lakeshore"			
   
   ,"parkCode":"piro"
@@ -15969,6 +16663,8 @@
   
   ,"url":"https://www.nps.gov/pinn/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pinnacles National Park"			
   
   ,"parkCode":"pinn"
@@ -16015,6 +16711,8 @@
   
   ,"url":"https://www.nps.gov/pisp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pipe Spring National Monument"			
   
   ,"parkCode":"pisp"
@@ -16061,6 +16759,8 @@
   
   ,"url":"https://www.nps.gov/pipe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pipestone National Monument"			
   
   ,"parkCode":"pipe"
@@ -16107,6 +16807,8 @@
   
   ,"url":"https://www.nps.gov/pisc/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Piscataway Park"			
   
   ,"parkCode":"pisc"
@@ -16153,6 +16855,8 @@
   
   ,"url":"https://www.nps.gov/pore/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Point Reyes National Seashore"			
   
   ,"parkCode":"pore"
@@ -16199,6 +16903,8 @@
   
   ,"url":"https://www.nps.gov/poex/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pony Express National Historic Trail"			
   
   ,"parkCode":"poex"
@@ -16245,6 +16951,8 @@
   
   ,"url":"https://www.nps.gov/poch/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Port Chicago Naval Magazine National Memorial"			
   
   ,"parkCode":"poch"
@@ -16291,6 +16999,8 @@
   
   ,"url":"https://www.nps.gov/pohe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Potomac Heritage National Scenic Trail"			
   
   ,"parkCode":"pohe"
@@ -16337,6 +17047,8 @@
   
   ,"url":"https://www.nps.gov/popo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Poverty Point National Monument"			
   
   ,"parkCode":"popo"
@@ -16383,6 +17095,8 @@
   
   ,"url":"https://www.nps.gov/wicl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"President William Jefferson Clinton Birthplace Home National Historic Site"			
   
   ,"parkCode":"wicl"
@@ -16429,6 +17143,8 @@
   
   ,"url":"https://www.nps.gov/whho/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"President's Park (White House)"			
   
   ,"parkCode":"whho"
@@ -16475,6 +17191,8 @@
   
   ,"url":"https://www.nps.gov/prsf/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Presidio of San Francisco"			
   
   ,"parkCode":"prsf"
@@ -16521,6 +17239,8 @@
   
   ,"url":"https://www.nps.gov/prwi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Prince William Forest Park"			
   
   ,"parkCode":"prwi"
@@ -16567,6 +17287,8 @@
   
   ,"url":"https://www.nps.gov/puhe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pu`ukoholā Heiau National Historic Site"			
   
   ,"parkCode":"puhe"
@@ -16613,6 +17335,8 @@
   
   ,"url":"https://www.nps.gov/pull/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Pullman National Monument"			
   
   ,"parkCode":"pull"
@@ -16659,6 +17383,8 @@
   
   ,"url":"https://www.nps.gov/puho/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Puʻuhonua o Hōnaunau National Historical Park"			
   
   ,"parkCode":"puho"
@@ -16705,6 +17431,8 @@
   
   ,"url":"https://www.nps.gov/rabr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Rainbow Bridge National Monument"			
   
   ,"parkCode":"rabr"
@@ -16751,6 +17479,8 @@
   
   ,"url":"https://www.nps.gov/reer/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Reconstruction Era National Historical Park"			
   
   ,"parkCode":"reer"
@@ -16797,6 +17527,8 @@
   
   ,"url":"https://www.nps.gov/redw/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Redwood National and State Parks"			
   
   ,"parkCode":"redw"
@@ -16843,6 +17575,8 @@
   
   ,"url":"https://www.nps.gov/rich/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Richmond National Battlefield Park"			
   
   ,"parkCode":"rich"
@@ -16889,6 +17623,8 @@
   
   ,"url":"https://www.nps.gov/rigr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Rio Grande Wild & Scenic River"			
   
   ,"parkCode":"rigr"
@@ -16935,6 +17671,8 @@
   
   ,"url":"https://www.nps.gov/rira/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"River Raisin National Battlefield Park"			
   
   ,"parkCode":"rira"
@@ -16981,6 +17719,8 @@
   
   ,"url":"https://www.nps.gov/rocr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Rock Creek Park"			
   
   ,"parkCode":"rocr"
@@ -17027,6 +17767,8 @@
   
   ,"url":"https://www.nps.gov/romo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Rocky Mountain National Park"			
   
   ,"parkCode":"romo"
@@ -17073,6 +17815,8 @@
   
   ,"url":"https://www.nps.gov/rowi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Roger Williams National Memorial"			
   
   ,"parkCode":"rowi"
@@ -17119,6 +17863,8 @@
   
   ,"url":"https://www.nps.gov/roca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Roosevelt Campobello International Park"			
   
   ,"parkCode":"roca"
@@ -17165,6 +17911,8 @@
   
   ,"url":"https://www.nps.gov/rori/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Rosie the Riveter WWII Home Front National Historical Park"			
   
   ,"parkCode":"rori"
@@ -17211,6 +17959,8 @@
   
   ,"url":"https://www.nps.gov/ruca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Russell Cave National Monument"			
   
   ,"parkCode":"ruca"
@@ -17257,6 +18007,8 @@
   
   ,"url":"https://www.nps.gov/sahi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Sagamore Hill National Historic Site"			
   
   ,"parkCode":"sahi"
@@ -17303,6 +18055,8 @@
   
   ,"url":"https://www.nps.gov/sagu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Saguaro National Park"			
   
   ,"parkCode":"sagu"
@@ -17349,6 +18103,8 @@
   
   ,"url":"https://www.nps.gov/sacr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Saint Croix Island International Historic Site"			
   
   ,"parkCode":"sacr"
@@ -17395,6 +18151,8 @@
   
   ,"url":"https://www.nps.gov/sacn/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Saint Croix National Scenic Riverway"			
   
   ,"parkCode":"sacn"
@@ -17441,6 +18199,8 @@
   
   ,"url":"https://www.nps.gov/sapa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Saint Paul's Church National Historic Site"			
   
   ,"parkCode":"sapa"
@@ -17487,6 +18247,8 @@
   
   ,"url":"https://www.nps.gov/saga/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Saint-Gaudens National Historical Park"			
   
   ,"parkCode":"saga"
@@ -17533,6 +18295,8 @@
   
   ,"url":"https://www.nps.gov/sama/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Salem Maritime National Historic Site"			
   
   ,"parkCode":"sama"
@@ -17579,6 +18343,8 @@
   
   ,"url":"https://www.nps.gov/sapu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Salinas Pueblo Missions National Monument"			
   
   ,"parkCode":"sapu"
@@ -17625,6 +18391,8 @@
   
   ,"url":"https://www.nps.gov/sari/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Salt River Bay National Historical Park and Ecological Preserve"			
   
   ,"parkCode":"sari"
@@ -17671,6 +18439,8 @@
   
   ,"url":"https://www.nps.gov/saan/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"San Antonio Missions National Historical Park"			
   
   ,"parkCode":"saan"
@@ -17717,6 +18487,8 @@
   
   ,"url":"https://www.nps.gov/safr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"San Francisco Maritime National Historical Park"			
   
   ,"parkCode":"safr"
@@ -17763,6 +18535,8 @@
   
   ,"url":"https://www.nps.gov/sajh/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"San Juan Island National Historical Park"			
   
   ,"parkCode":"sajh"
@@ -17809,6 +18583,8 @@
   
   ,"url":"https://www.nps.gov/saju/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"San Juan National Historic Site"			
   
   ,"parkCode":"saju"
@@ -17855,6 +18631,8 @@
   
   ,"url":"https://www.nps.gov/sand/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Sand Creek Massacre National Historic Site"			
   
   ,"parkCode":"sand"
@@ -17901,6 +18679,8 @@
   
   ,"url":"https://www.nps.gov/safe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Santa Fe National Historic Trail"			
   
   ,"parkCode":"safe"
@@ -17947,6 +18727,8 @@
   
   ,"url":"https://www.nps.gov/samo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Santa Monica Mountains National Recreation Area"			
   
   ,"parkCode":"samo"
@@ -17993,6 +18775,8 @@
   
   ,"url":"https://www.nps.gov/sara/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Saratoga National Historical Park"			
   
   ,"parkCode":"sara"
@@ -18039,6 +18823,8 @@
   
   ,"url":"https://www.nps.gov/sair/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Saugus Iron Works National Historic Site"			
   
   ,"parkCode":"sair"
@@ -18085,6 +18871,8 @@
   
   ,"url":"https://www.nps.gov/scbl/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Scotts Bluff National Monument"			
   
   ,"parkCode":"scbl"
@@ -18131,6 +18919,8 @@
   
   ,"url":"https://www.nps.gov/semo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Selma To Montgomery National Historic Trail"			
   
   ,"parkCode":"semo"
@@ -18177,6 +18967,8 @@
   
   ,"url":"https://www.nps.gov/seki/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Sequoia & Kings Canyon National Parks"			
   
   ,"parkCode":"seki"
@@ -18223,6 +19015,8 @@
   
   ,"url":"https://www.nps.gov/shen/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Shenandoah National Park"			
   
   ,"parkCode":"shen"
@@ -18269,6 +19063,8 @@
   
   ,"url":"https://www.nps.gov/shil/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Shiloh National Military Park"			
   
   ,"parkCode":"shil"
@@ -18315,6 +19111,8 @@
   
   ,"url":"https://www.nps.gov/sitk/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Sitka National Historical Park"			
   
   ,"parkCode":"sitk"
@@ -18361,6 +19159,8 @@
   
   ,"url":"https://www.nps.gov/slbe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Sleeping Bear Dunes National Lakeshore"			
   
   ,"parkCode":"slbe"
@@ -18407,6 +19207,8 @@
   
   ,"url":"https://www.nps.gov/spar/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Springfield Armory National Historic Site"			
   
   ,"parkCode":"spar"
@@ -18453,6 +19255,8 @@
   
   ,"url":"https://www.nps.gov/stsp/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Star-Spangled Banner National Historic Trail"			
   
   ,"parkCode":"stsp"
@@ -18499,6 +19303,8 @@
   
   ,"url":"https://www.nps.gov/stli/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Statue Of Liberty National Monument"			
   
   ,"parkCode":"stli"
@@ -18545,6 +19351,8 @@
   
   ,"url":"https://www.nps.gov/stge/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ste. Geneviève National Historical Park"			
   
   ,"parkCode":"stge"
@@ -18591,6 +19399,8 @@
   
   ,"url":"https://www.nps.gov/stea/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Steamtown National Historic Site"			
   
   ,"parkCode":"stea"
@@ -18637,6 +19447,8 @@
   
   ,"url":"https://www.nps.gov/stri/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Stones River National Battlefield"			
   
   ,"parkCode":"stri"
@@ -18683,6 +19495,8 @@
   
   ,"url":"https://www.nps.gov/ston/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Stonewall National Monument"			
   
   ,"parkCode":"ston"
@@ -18729,6 +19543,8 @@
   
   ,"url":"https://www.nps.gov/sucr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Sunset Crater Volcano National Monument"			
   
   ,"parkCode":"sucr"
@@ -18775,6 +19591,8 @@
   
   ,"url":"https://www.nps.gov/tapr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Tallgrass Prairie National Preserve"			
   
   ,"parkCode":"tapr"
@@ -18821,6 +19639,8 @@
   
   ,"url":"https://www.nps.gov/thko/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Thaddeus Kosciuszko National Memorial"			
   
   ,"parkCode":"thko"
@@ -18867,6 +19687,8 @@
   
   ,"url":"https://www.nps.gov/thrb/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Theodore Roosevelt Birthplace National Historic Site"			
   
   ,"parkCode":"thrb"
@@ -18913,6 +19735,8 @@
   
   ,"url":"https://www.nps.gov/thri/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Theodore Roosevelt Inaugural National Historic Site"			
   
   ,"parkCode":"thri"
@@ -18959,6 +19783,8 @@
   
   ,"url":"https://www.nps.gov/this/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Theodore Roosevelt Island"			
   
   ,"parkCode":"this"
@@ -19005,6 +19831,8 @@
   
   ,"url":"https://www.nps.gov/thro/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Theodore Roosevelt National Park"			
   
   ,"parkCode":"thro"
@@ -19051,6 +19879,8 @@
   
   ,"url":"https://www.nps.gov/thco/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Thomas Cole National Historic Site"			
   
   ,"parkCode":"thco"
@@ -19097,6 +19927,8 @@
   
   ,"url":"https://www.nps.gov/edis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Thomas Edison National Historical Park"			
   
   ,"parkCode":"edis"
@@ -19143,6 +19975,8 @@
   
   ,"url":"https://www.nps.gov/thje/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Thomas Jefferson Memorial"			
   
   ,"parkCode":"thje"
@@ -19189,6 +20023,8 @@
   
   ,"url":"https://www.nps.gov/thst/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Thomas Stone National Historic Site"			
   
   ,"parkCode":"thst"
@@ -19235,6 +20071,8 @@
   
   ,"url":"https://www.nps.gov/tica/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Timpanogos Cave National Monument"			
   
   ,"parkCode":"tica"
@@ -19281,6 +20119,8 @@
   
   ,"url":"https://www.nps.gov/timu/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Timucuan Ecological & Historic Preserve"			
   
   ,"parkCode":"timu"
@@ -19327,6 +20167,8 @@
   
   ,"url":"https://www.nps.gov/tont/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Tonto National Monument"			
   
   ,"parkCode":"tont"
@@ -19373,6 +20215,8 @@
   
   ,"url":"https://www.nps.gov/tosy/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Touro Synagogue National Historic Site"			
   
   ,"parkCode":"tosy"
@@ -19419,6 +20263,8 @@
   
   ,"url":"https://www.nps.gov/trte/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Trail Of Tears National Historic Trail"			
   
   ,"parkCode":"trte"
@@ -19465,6 +20311,8 @@
   
   ,"url":"https://www.nps.gov/tule/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Tule Lake National Monument"			
   
   ,"parkCode":"tule"
@@ -19511,6 +20359,8 @@
   
   ,"url":"https://www.nps.gov/tusk/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Tule Springs Fossil Beds National Monument"			
   
   ,"parkCode":"tusk"
@@ -19557,6 +20407,8 @@
   
   ,"url":"https://www.nps.gov/tuma/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Tumacácori National Historical Park"			
   
   ,"parkCode":"tuma"
@@ -19603,6 +20455,8 @@
   
   ,"url":"https://www.nps.gov/tupe/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Tupelo National Battlefield"			
   
   ,"parkCode":"tupe"
@@ -19649,6 +20503,8 @@
   
   ,"url":"https://www.nps.gov/tuai/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Tuskegee Airmen National Historic Site"			
   
   ,"parkCode":"tuai"
@@ -19695,6 +20551,8 @@
   
   ,"url":"https://www.nps.gov/tuin/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Tuskegee Institute National Historic Site"			
   
   ,"parkCode":"tuin"
@@ -19741,6 +20599,8 @@
   
   ,"url":"https://www.nps.gov/tuzi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Tuzigoot National Monument"			
   
   ,"parkCode":"tuzi"
@@ -19787,6 +20647,8 @@
   
   ,"url":"https://www.nps.gov/ulsg/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Ulysses S Grant National Historic Site"			
   
   ,"parkCode":"ulsg"
@@ -19833,6 +20695,8 @@
   
   ,"url":"https://www.nps.gov/upde/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Upper Delaware Scenic & Recreational River"			
   
   ,"parkCode":"upde"
@@ -19879,6 +20743,8 @@
   
   ,"url":"https://www.nps.gov/vall/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Valles Caldera National Preserve"			
   
   ,"parkCode":"vall"
@@ -19925,6 +20791,8 @@
   
   ,"url":"https://www.nps.gov/vafo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Valley Forge National Historical Park"			
   
   ,"parkCode":"vafo"
@@ -19971,6 +20839,8 @@
   
   ,"url":"https://www.nps.gov/vama/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Vanderbilt Mansion National Historic Site"			
   
   ,"parkCode":"vama"
@@ -20017,6 +20887,8 @@
   
   ,"url":"https://www.nps.gov/vick/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Vicksburg National Military Park"			
   
   ,"parkCode":"vick"
@@ -20063,6 +20935,8 @@
   
   ,"url":"https://www.nps.gov/vive/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Vietnam Veterans Memorial"			
   
   ,"parkCode":"vive"
@@ -20109,6 +20983,8 @@
   
   ,"url":"https://www.nps.gov/vicr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Virgin Islands Coral Reef National Monument"			
   
   ,"parkCode":"vicr"
@@ -20155,6 +21031,8 @@
   
   ,"url":"https://www.nps.gov/viis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Virgin Islands National Park"			
   
   ,"parkCode":"viis"
@@ -20201,6 +21079,8 @@
   
   ,"url":"https://www.nps.gov/voya/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Voyageurs National Park"			
   
   ,"parkCode":"voya"
@@ -20247,6 +21127,8 @@
   
   ,"url":"https://www.nps.gov/waco/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Waco Mammoth National Monument"			
   
   ,"parkCode":"waco"
@@ -20293,6 +21175,8 @@
   
   ,"url":"https://www.nps.gov/waca/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Walnut Canyon National Monument"			
   
   ,"parkCode":"waca"
@@ -20339,6 +21223,8 @@
   
   ,"url":"https://www.nps.gov/wapa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"War In The Pacific National Historical Park"			
   
   ,"parkCode":"wapa"
@@ -20385,6 +21271,8 @@
   
   ,"url":"https://www.nps.gov/wamo/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Washington Monument"			
   
   ,"parkCode":"wamo"
@@ -20431,6 +21319,8 @@
   
   ,"url":"https://www.nps.gov/waro/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Washington-Rochambeau Revolutionary Route National Historic Trail"			
   
   ,"parkCode":"waro"
@@ -20477,6 +21367,8 @@
   
   ,"url":"https://www.nps.gov/waba/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Washita Battlefield National Historic Site"			
   
   ,"parkCode":"waba"
@@ -20523,6 +21415,8 @@
   
   ,"url":"https://www.nps.gov/wefa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Weir Farm National Historical Park"			
   
   ,"parkCode":"wefa"
@@ -20569,6 +21463,8 @@
   
   ,"url":"https://www.nps.gov/whis/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Whiskeytown National Recreation Area"			
   
   ,"parkCode":"whis"
@@ -20615,6 +21511,8 @@
   
   ,"url":"https://www.nps.gov/whsa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"White Sands National Park"			
   
   ,"parkCode":"whsa"
@@ -20661,6 +21559,8 @@
   
   ,"url":"https://www.nps.gov/whmi/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Whitman Mission National Historic Site"			
   
   ,"parkCode":"whmi"
@@ -20707,6 +21607,8 @@
   
   ,"url":"https://www.nps.gov/wiho/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"William Howard Taft National Historic Site"			
   
   ,"parkCode":"wiho"
@@ -20753,6 +21655,8 @@
   
   ,"url":"https://www.nps.gov/wicr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Wilson's Creek National Battlefield"			
   
   ,"parkCode":"wicr"
@@ -20799,6 +21703,8 @@
   
   ,"url":"https://www.nps.gov/wica/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Wind Cave National Park"			
   
   ,"parkCode":"wica"
@@ -20845,6 +21751,8 @@
   
   ,"url":"https://www.nps.gov/wing/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Wing Luke Museum Affiliated Area"			
   
   ,"parkCode":"wing"
@@ -20891,6 +21799,8 @@
   
   ,"url":"https://www.nps.gov/wotr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Wolf Trap National Park for the Performing Arts"			
   
   ,"parkCode":"wotr"
@@ -20937,6 +21847,8 @@
   
   ,"url":"https://www.nps.gov/wori/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Women's Rights National Historical Park"			
   
   ,"parkCode":"wori"
@@ -20983,6 +21895,8 @@
   
   ,"url":"https://www.nps.gov/wwim/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"World War I Memorial"			
   
   ,"parkCode":"wwim"
@@ -21029,6 +21943,8 @@
   
   ,"url":"https://www.nps.gov/wwii/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"World War II Memorial"			
   
   ,"parkCode":"wwii"
@@ -21075,6 +21991,8 @@
   
   ,"url":"https://www.nps.gov/wrst/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Wrangell - St Elias National Park & Preserve"			
   
   ,"parkCode":"wrst"
@@ -21121,6 +22039,8 @@
   
   ,"url":"https://www.nps.gov/wrbr/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Wright Brothers National Memorial"			
   
   ,"parkCode":"wrbr"
@@ -21167,6 +22087,8 @@
   
   ,"url":"https://www.nps.gov/wupa/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Wupatki National Monument"			
   
   ,"parkCode":"wupa"
@@ -21213,6 +22135,8 @@
   
   ,"url":"https://www.nps.gov/yell/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Yellowstone National Park"			
   
   ,"parkCode":"yell"
@@ -21259,6 +22183,8 @@
   
   ,"url":"https://www.nps.gov/york/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Yorktown Battlefield Part of Colonial National Historical Park"			
   
   ,"parkCode":"york"
@@ -21305,6 +22231,8 @@
   
   ,"url":"https://www.nps.gov/yose/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Yosemite National Park"			
   
   ,"parkCode":"yose"
@@ -21351,6 +22279,8 @@
   
   ,"url":"https://www.nps.gov/yuho/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Yucca House National Monument"			
   
   ,"parkCode":"yuho"
@@ -21397,6 +22327,8 @@
   
   ,"url":"https://www.nps.gov/yuch/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Yukon - Charley Rivers National Preserve"			
   
   ,"parkCode":"yuch"
@@ -21443,6 +22375,8 @@
   
   ,"url":"https://www.nps.gov/zion/index.htm"
   
+  ,"isLiked": false
+
   ,"fullName":"Zion National Park"			
   
   ,"parkCode":"zion"
@@ -21483,32 +22417,5 @@
   
   }
   
-  ],
-  "likes": [
-    {
-      "id": 1,
-      "parkId": "6DA17C86-088E-4B4D-B862-7C1BD5CF236B",
-      "createdAt": 1622521024
-    },
-    {
-      "id": 2,
-      "parkId": "41BAB8ED-C95F-447D-9DA1-FCC4E4D808B2",
-      "createdAt": 1622521025
-    },
-    {
-      "id": 3,
-      "parkId": "712044CE-4C85-48C2-813E-310A9C6C74E1",
-      "createdAt": 1622521026
-    },
-    {
-      "id": 4,
-      "parkId": "6B1D053D-714F-46D1-B410-04BE868F14C1",
-      "createdAt": 1622521027
-    },
-    { 
-      "id": 5,
-      "parkId": "B7FF43E5-3A95-4C8E-8DBE-72D8608D6588",
-      "createdAt": 1622521028
-    }
   ]
 }
